@@ -1,6 +1,6 @@
 # EMS Laravel
 <h1>step1</h1>
-<p>git clone ["https://github.com/kenana-mohammad/Task8_Employee_Mangement_System"](https://github.com/kenana-mohammad/Task8_Employee_Mangement_System.git
+<p>git clone (https://github.com/kenana-mohammad/Task8_Employee_Mangement_System.git
 )</p>
 ---------------
 <h2>step2</h2>
@@ -9,3 +9,8 @@
 <p> cd .env.example .env</p>
 <p>php artisan key:generate </p>
 --------------
+<h3>step3</h3>
+<h5>nigrate to db</h5>
+<p>php artisan migrate</p>
+<h2>URL Documantion postman</h2> =>
+<p>https://documenter.getpostman.com/view/30469576/2sA3BuV8Qb</p>
